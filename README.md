@@ -8,9 +8,9 @@
 - 屏幕：0.96寸OLED模块
 - 电源模块：12转5 DC-DC模块
 ## 原理图：
-[平衡车BOM清单](schematic/SCH_Schematic1_2025-10-25.pdf)
+[控制板原理图](schematic/SCH_Schematic1_2025-10-25.pdf)
 ## BOM清单：
-[控制板原理图](schematic/BOM_Balance_car_Schematic.xlsx)
+[BOM清单](schematic/BOM_Balance_car_Schematic.xlsx)
 ## 主控板实物图：
 主控板上增添了一个电源开关和四个按键，便于后续调参和菜单互动。
 
